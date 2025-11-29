@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+whoosh
+python-multipart
+onnxruntime
+numpy
+torch
+transformers
+sentencepiece
+accelerate
