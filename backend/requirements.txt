@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+whoosh
+python-multipart
+numpy
+torch
+transformers
+sentencepiece
+accelerate
+pyspellchecker
+python-docx
+fpdf2
+markdown

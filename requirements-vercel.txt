@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+whoosh
+python-multipart
+numpy
+# torch and transformers are excluded for Vercel deployment to save size
